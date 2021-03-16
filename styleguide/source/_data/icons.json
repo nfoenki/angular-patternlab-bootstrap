@@ -1,0 +1,38 @@
+{
+	"iconPath": "../../images/icons.svg",
+	"icon": "search",
+	"icons": [
+		{
+			"iconPath": "../../images/icons.svg",
+			"icon": "minus"
+		},
+    {
+      "iconPath": "../../images/icons.svg",
+      "icon": "minus2"
+    },
+		{
+			"iconPath": "../../images/icons.svg",
+			"icon": "plus"
+		},
+		{
+			"iconPath": "../../images/icons.svg",
+			"icon": "search"
+		},
+		{
+			"iconPath": "../../images/icons.svg",
+			"icon": "triangle-down"
+		},
+		{
+			"iconPath": "../../images/icons.svg",
+			"icon": "triangle-up"
+		},
+		{
+			"iconPath": "../../images/icons.svg",
+			"icon": "triangle-right"
+		},
+		{
+			"iconPath": "../../images/icons.svg",
+			"icon": "triangle-left"
+		}
+	]
+}
