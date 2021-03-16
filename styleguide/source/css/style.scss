@@ -16,16 +16,16 @@
 @import "node_modules/bootstrap/scss/bootstrap";
 
 /*------------------------------------*\
+    #SVG SPRITE DIMS
+\*------------------------------------*/
+@import "scss/sprite";
+
+/*------------------------------------*\
     #ABSTRACTS
 \*------------------------------------*/
 @import "scss/abstracts/variables";
 @import "scss/abstracts/mixins";
 @import "scss/abstracts/colors";
-
-/*------------------------------------*\
-    #SVG SPRITE DIMS
-\*------------------------------------*/
-@import "scss/sprite";
 
 /*------------------------------------*\
     #BASE
